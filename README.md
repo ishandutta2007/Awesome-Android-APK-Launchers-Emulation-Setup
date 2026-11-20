@@ -106,7 +106,7 @@ Some “open-source” projects may have dual licensing, proprietary components,
 If this list helped you, please ⭐ the repo!
 # Awesome-Android-APK-Launchers-Emulation-Setup
 
-# Top Algorithmic Trading & Automated Crypto Execution Ecosystem
+## Top Algorithmic Trading & Automated Crypto Execution Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Strategy Backtesting, Automated Execution & Self-Hosted Trading Engines*  
